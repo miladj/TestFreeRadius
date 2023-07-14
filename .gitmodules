@@ -1,4 +1,4 @@
-[submodule "radius/freeradius/server"]
-	path = radius/freeradius/server
-	url = https://github.com/FreeRADIUS/freeradius-server
+[submodule "freeradius-server"]
+	path = freeradius-server
+	url = https://github.com/FreeRADIUS/freeradius-server.git
 	branch = v3.2.x
