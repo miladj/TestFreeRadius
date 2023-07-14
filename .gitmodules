@@ -1,4 +1,4 @@
 [submodule "freeradius-server"]
 	path = freeradius-server
-	url = https://github.com/FreeRADIUS/freeradius-server.git
+	url = https://shahinke.visualstudio.com/NextOfficeGen/_git/freeradius-server
 	branch = v3.2.x
